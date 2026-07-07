@@ -12,7 +12,7 @@
     "pkgA": {
       "Package": "pkgA",
       "Version": "2.5.1",
-      "Source": "GitHub",
+      "Repository": "INHOUSE",
       "Requirements": [
         "R"
       ],
