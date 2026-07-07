@@ -8,5 +8,16 @@
       }
     ]
   },
-  "Packages": {}
+  "Packages": {
+    "pkgA": {
+      "Package": "pkgA",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "INHOUSE",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    }
+  }
 }
