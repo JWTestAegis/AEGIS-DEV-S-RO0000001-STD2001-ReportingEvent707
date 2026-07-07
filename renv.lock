@@ -9,11 +9,10 @@
     ]
   },
   "Packages": {
-    "pkgA": {
-      "Package": "pkgA",
+    "renv": {
+      "Package": "renv",
       "Version": "2.5.1",
       "Source": "Repository",
-      "Repository": "https://aegisrspm.",
       "Requirements": [
         "R"
       ],
