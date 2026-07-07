@@ -1,0 +1,11 @@
+{
+  "R": {
+    "Version": "4.5.1",
+    "Repositories": [
+      {
+        "Name": "INHOUSE",
+        "URL": "https://aegisrspm.aegis-web-dev.tcci-int.chugai-pharm.co.jp/aegis-R4.5.1-dev/__linux__/noble/latest"
+      }
+    ]
+  }
+}
