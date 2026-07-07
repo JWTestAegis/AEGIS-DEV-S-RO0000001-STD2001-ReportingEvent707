@@ -5,6 +5,10 @@
       {
         "Name": "INHOUSE",
         "URL": "https://aegisrspm.aegis-web-dev.tcci-int.chugai-pharm.co.jp/aegis-R4.5.1-dev/__linux__/noble/latest"
+      },
+      {
+        "Name": "INTERNAL",
+        "URL": "https://aegisrspm.internal.co.jp/aegis-R4.5.1-dev/__linux__/noble/latest"
       }
     ]
   },
@@ -13,7 +17,7 @@
       "Package": "pkgA",
       "Version": "2.5.1",
       "Source": "Repository",
-      "Repository": "https://example.com/repo",
+      "Repository": "INTERNAL",
       "Requirements": [
         "R"
       ],
