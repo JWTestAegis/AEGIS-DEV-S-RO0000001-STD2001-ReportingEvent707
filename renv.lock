@@ -12,6 +12,17 @@
     "pkgA": {
       "Package": "pkgA",
       "Version": "2.5.1",
+      "Source": "Local",
+      "Repository": "INHOUSE",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "pkgB": {
+      "Package": "pkgB",
+      "Version": "2.5.1",
+      "Source": "GitHub",
       "Repository": "INHOUSE",
       "Requirements": [
         "R"
