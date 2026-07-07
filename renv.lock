@@ -8,26 +8,5 @@
       }
     ]
   },
-  "Packages": [
-    {
-      "Package": "pkgA",
-      "Version": "2.5.1",
-      "Source": "Repository",
-      "Repository": "INHOUSE",
-      "Requirements": [
-        "R"
-      ],
-      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
-    },
-    {
-      "Package": "pkgB",
-      "Version": "2.5.1",
-      "Source": "Repository",
-      "Repository": "Local",
-      "Requirements": [
-        "R"
-      ],
-      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
-    }
-  ]
+  "Packages": "{\"pkgA\":{\"Source\":\"Repository\"}}"
 }
