@@ -8,5 +8,25 @@
       }
     ]
   },
-  "Packages": "{\"pkgA\":{\"Source\":\"Repository\"}}"
+  "Packages": {
+    "renv": {
+      "Package": "renv",
+      "Version": "2.5.12",
+      "Source": "Repository",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "pkgA": {
+      "Package": "pkgA",
+      "Version": "1.0.0",
+      "Source": "Repository",
+      "Repository": "INHOUSE",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    }
+  }
 }
