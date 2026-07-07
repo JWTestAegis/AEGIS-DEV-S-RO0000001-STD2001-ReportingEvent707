@@ -13,7 +13,7 @@
       "Package": "pkgA",
       "Version": "2.5.1",
       "Source": "Repository",
-      "Repository": "https://aegisrspm.)",
+      "Repository": "https://aegisrspm.custom",
       "Requirements": [
         "R"
       ],
