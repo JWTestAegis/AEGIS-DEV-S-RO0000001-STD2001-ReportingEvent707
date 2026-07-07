@@ -9,10 +9,10 @@
     ]
   },
   "Packages": {
-    "renv": {
-      "Package": "renv",
+    "pkgA": {
+      "Package": "pkgA",
       "Version": "2.5.1",
-      "Source": "Repository",
+      "Source": "GitHub",
       "Requirements": [
         "R"
       ],
